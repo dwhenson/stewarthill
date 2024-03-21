@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://stewarthill.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://stewarthill.co.uk/collections/all.atom"/>
+  <title>Stewart Hill </title>
+  <updated>2020-09-07T15:29:16+01:00</updated>
+  <author>
+    <name>Stewart Hill </name>
+  </author>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748605583527</id>
+    <published>2020-09-07T15:29:16+01:00</published>
+    <updated>2020-09-07T15:29:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/pink-mist"/>
+    <title>Pink Mist</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/PinkMist.jpg?v=1599488956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/pink-mist">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>One of four paintings created to show my time in ‘The Two Worlds of Charlie F’. The term Pink Mist is mentioned in the play and refers to a soldier’s candid description of what happens when an Improvised Explosive Device explodes upon a body. The three men in the painting are from the promotion banner for the play. The sky depicts the potential violence that can be inflicted on any of our soldiers from an IED at any time, once they are outside the safety of a camp or Forward Operating Base. The landscape is of the mountains in Sangin, Afghanistan.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748605583527</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748605583527</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748605583527</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748605583527</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748605583527</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748580876455</id>
+    <published>2020-09-07T15:26:18+01:00</published>
+    <updated>2020-09-07T15:26:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/the-crossroad"/>
+    <title>The Crossroad</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/TheCrossroad.jpg?v=1599488778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/the-crossroad">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>My eighth completed painting shows a soldier searching for an Improvised Explosive Device (IED) with another soldier in over watch. IEDs are prevalent in Helmand Province, Afghanistan and soldiers identified possible IEDs on a daily basis. A soldier will confirm an IED by lying down and using a paintbrush and prodding stick to establish if one is present.</span></p>
+<p><span> </span></p>
+<p><span>A soldier’s life is determined by what happens during these tense moments. He may live or be seriously injured or killed by an IED. I want to show this as a junction between life or death and this is reflected in the light and dark contrasts in the painting.</span></p>
+<p> </p>
+<p><span>Sizes: A5, A4, A3, A2 and A1.</span></p>
+<p><span>Fine art giclee prints.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748580876455</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748580876455</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748580876455</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748580876455</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748580876455</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748554694823</id>
+    <published>2020-09-07T15:23:03+01:00</published>
+    <updated>2020-09-07T15:23:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/despair-in-an-afghan-poppy-field"/>
+    <title>Despair In An Afghan Poppy Field</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/DespairinanAfghanPoppyField.jpg?v=1599488583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/despair-in-an-afghan-poppy-field">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>My seventh completed painting and my first at abstract. This painting was adapted from a photograph of a soldier from B Company during our 2009 tour in Afghanistan. It is striking at how alone and separated he looks in the photo.  </span></p>
+<p><span> </span></p>
+<p><span>The majority of soldiers are stoic during operations but I know how frightening and despairing it does feel for them. I wanted to show this angst in some way and was inspired by Edvard Munch’s The Scream.</span></p>
+<p><span>Sizes: A5, A4, A3, A2 and A1.</span></p>
+<p><span>Fine art giclee prints</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748554694823</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748554694823</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748554694823</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748554694823</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748554694823</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748525858983</id>
+    <published>2020-09-07T15:19:46+01:00</published>
+    <updated>2020-09-07T15:19:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/lines-of-departure"/>
+    <title>Lines of Departure</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/LinesofDeparture.jpg?v=1599488387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/lines-of-departure">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This image shows B Company 2 Mercian crossing the Nad-E-Ali canal, Afghanistan, on the 4<sup>th</sup> July 2009. The canal was the military Line of Departure, which is a line on a map delineating the crossing from friendly to enemy force territory. Several hours after this crossing three soldiers had been killed and several others seriously injured; including myself from a severe traumatic brain injury. I use the plural ‘Lines’ to suggest a departure on many levels: militarily, physically, spiritually, psychologically and heavenly.</p>
+<p>Sizes A5, A4, A3, A2 and A1</p>
+<p>Fine art giclee prints</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748525858983</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748525858983</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748525858983</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748525858983</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748525858983</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748475134119</id>
+    <published>2020-09-07T15:14:04+01:00</published>
+    <updated>2020-09-07T15:14:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/deliberation"/>
+    <title>Deliberation</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/Deliberation.jpg?v=1599488045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/deliberation">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>‘Deliberation’ noun ‘Long and careful consideration or discussion…slow and careful movement or thought’ Oftentimes in War it is necessary to pause in the heat of battle to allow oneself to think clearly before making decisions. A moment of Peace is often a time of reflection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748475134119</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748475134119</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748475134119</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748475134119</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748475134119</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748427653287</id>
+    <published>2020-09-07T15:09:07+01:00</published>
+    <updated>2020-09-07T15:09:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/deliberation-reworked"/>
+    <title>Deliberation (Reworked)</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/Deliberation_reworked.jpg?v=1599487748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/deliberation-reworked">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Based on my original Deliberation I chose to show this painting without the prominent poppies and to change the colours of the sunset</p>
+<p>‘Deliberation’ noun ‘Long and careful consideration or discussion…slow and careful movement or thought’ Oftentimes in war it is necessary to pause in the heat of battle to allow oneself to think clearly before making decisions. A moment of peace is often a time of reflection.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748427653287</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748427653287</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748427653287</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748427653287</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748427653287</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/5748261978279</id>
+    <published>2020-09-07T14:51:10+01:00</published>
+    <updated>2020-09-07T14:51:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/herrick"/>
+    <title>Herrick</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/Herrick.jpg?v=1599486670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/herrick">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Operation Herrick is the code name under which all British operations in the War in Afghanistan have been conducted since 2002.<br></p>
+<p><span>My previous work, ‘At What Cost to B Company?’ inspired this piece and I wanted to capture the UK’s involvement in the War in Afghanistan, how the UK was sucked into a war that lasted far longer than anticipated.</span></p>
+<p><span>Size options: A1, A2, A3, A4 and A5</span></p>
+<p><span>Fine art giclee prints</span></p>
+<p> </p>
+<meta charset="utf-8">
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748261978279</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748261978279</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748261978279</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748261978279</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/5748261978279</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/4061093101632</id>
+    <published>2019-08-21T20:26:25+01:00</published>
+    <updated>2019-08-21T20:26:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/pink-mist-2"/>
+    <title>Pink Mist 2</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/pink_mist.jpg?v=1566415790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/pink-mist-2">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span><span>Size options: A2, A3, A4 and A5<br>Fine art giclee prints <br> <br></span></span>
+<p><span>One of four paintings created to show my time in ‘The Two Worlds of Charlie F’. The term Pink Mist is mentioned in the play and refers to a soldier’s candid description of what happens when an Improvised Explosive Device explodes upon a body. The three men in the painting are from the promotion banner for the play. The three men in the painting are from the promotional banner for the play. The sky depicts the potential violence that can be inflicted on any of our soldiers from an IED at any time, once they are outside the safety of a camp or Forward Operating Base. The landscape is taken from a photo of mountains in Sangin, Afghanistan.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/4061093101632</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/4061093101632</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/4061093101632</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/4061093101632</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/4061093101632</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1686679584832</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/captain-rwm-bowers-in-memoriam"/>
+    <title>Captain RWM Bowers in Memoriam</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/rupert.jpg?v=1544041124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/captain-rwm-bowers-in-memoriam">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Size options: A2, A3, A4 and A5<br>Fine art giclee prints  <br> <br><em>Rupert was killed on 21<sup>st</sup> March 2012 in Afghanistan and I knew Rupert from my time with 2 MERCIAN. I wanted to venerate him in some way so decided on a portrait. This would be my second oil portrait and sixth ever painting so I sought the Commanding Officer of 2 MERCIAN’s permission with trepidation. I offered to paint a portrait of Rupert for the Officers’ Mess but would only present the painting if it looked like Rupert and would honour him.</em><br><em>  </em><br><em>I wanted permission from his wife also before proceeding. I got to know Victoria and their newborn son Hugo during the selection and painting process and am delighted to count her as a friend. I had not met her before Rupert was killed.</em><br><em> </em><br><em>The image of Rupert was taken from a photograph of him in Afghanistan in 2012. This was his third tour to Afghanistan in five years. I wanted to show to an observer that Rupert had been killed and decided to create a halo effect in the painting.</em><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686679584832</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686679584832</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686679584832</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686679584832</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686679584832</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1686657433664</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/self-reflection"/>
+    <title>Self Reflection</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/self_reflection_2.jpg?v=1544040986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/self-reflection">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Size options: A2, A3, A4 and A5<br>Fine art giclee prints <br> <br><em>One of four paintings created to show my time in the play ‘The Two Worlds of Charlie F’. This image is from Act One Scene Nine. Is the standing figure pointing in an accusatory, judgemental or reflective way, encouraging the seated person to reflect on his life, the life he now faces? I repeated the scene to suggest rumination, a significant factor in any emotional recovery.</em><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686657433664</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686657433664</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686657433664</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686657433664</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686657433664</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1686646620224</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/girl-in-a-red-dress-in-the-sand"/>
+    <title>Girl in a Red Dress in the Sand</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/red_dress.jpg?v=1566415499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/girl-in-a-red-dress-in-the-sand">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Size options: A2, A3, A4 and A5<br>Fine art giclee prints <br> <br><em>This was inspired by a painting I made for a recently widowed friend, based on the final photograph of her husband walking along his favourite beach in Scotland. I was struck by the sense of isolation in the image and I wanted to contrast that in this second version by presenting a parent and daughter in a moment of peace, intimacy and privacy.</em><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686646620224</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686646620224</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686646620224</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686646620224</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1686646620224</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1458266767424</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/the-world-of-charlie-f"/>
+    <title>The World of Charlie F</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/THE_WORLD.jpg?v=1542919945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/the-world-of-charlie-f">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Size options: A2, A3, A4 and A5</span><br><span>Fine art giclee prints</span><span> </span><br><span> </span><br><em>One of four paintings created to show my time in the play ‘The Two Worlds of Charlie F’. It is a collage of three separate images, all from Act One Scene Nine. The singular reference to Charlie’s world is intentional. The scene does not show life outside of the military, hence ‘The World’.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458266767424</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458266767424</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458266767424</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458266767424</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458266767424</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1458215747648</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/athena"/>
+    <title>Athena</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/ATHENA.jpg?v=1542919702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/athena">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Size options: A2, A3, A4 and A5</span><br><span>Fine art giclee prints</span><span> </span><br><span> </span><br><em>My fourteenth painting was my last one before embarking on the tour of ‘The Two Worlds of Charlie F’. The tour began with a two-week run in the Princess of Wales theatre in Toronto, Canada.</em><br><em> </em><br><em>Operation Athena is the Canadian Forces contribution to the International Security Assistance Force (ISAF) in Afghanistan. A total of 158 Canadian Forces personnel had been killed in the war since 2002. I worked alongside a couple of Canadian units in Afghanistan in 2007 and 2009.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458215747648</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458215747648</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458215747648</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458215747648</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458215747648</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1458156568640</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/at-what-cost-to-b-company"/>
+    <title>At What Cost to B Company?</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/AT_WHAT.jpg?v=1542919475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/at-what-cost-to-b-company">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Size options: A1, A2, A3, A4 and A5</span><br><span>Fine art giclee prints</span><span> </span><br><span> </span><br><em>My fifth completed painting. I wanted to show soldiers I served with that were killed in Afghanistan during our tour in 2009. I decided to use photographs to preserve their exact image. The UK had a significant role in the War in Afghanistan, hence the Union Flag, and I wanted to symbolise the UK being drawn and sucked into the Afghan abyss. I wanted also to suggest the UK has been scarred and tattered by this decade long campaign with the worn look on the flag. Carried with it are the bodies of soldiers who died. Images shown on the painting are the Afghanistan Casualty List of 2009, a funeral procession in Royal Wootten Bassett and the faces of:</em><br><em> </em><br><em>Private Robbie Laws 2 MERCIAN killed in Afghanistan 4<sup>th</sup><span> </span>July 2009.</em><br><em>Lance Corporal David ‘Duke’ Dennis Light Dragoons killed in Afghanistan 4<sup>th</sup><span> </span>July 2009.</em><br><em>Lance Corporal Dane Elson Welsh Guards killed in Afghanistan 5<sup>th</sup><span> </span>July 2009.</em><br><em>Private Gavin Elliott 2 MERCIAN killed in Afghanistan 3<sup>rd</sup><span> </span>September 2009.</em><br><em>Lance Sergeant Dan Collins Welsh Guards killed himself in Wales 31<sup>st</sup><span> </span>December 2011.</em><br><em> </em><br><em>All served within B Company 2 MERCIAN in Afghanistan 2009, under my command.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458156568640</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458156568640</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458156568640</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458156568640</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458156568640</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://stewarthill.co.uk/products/1458125733952</id>
+    <published>2018-11-22T20:37:08+00:00</published>
+    <updated>2018-11-22T20:37:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://stewarthill.co.uk/products/a-reflection-of-war"/>
+    <title>A Reflection of War</title>
+    <s:type>Print</s:type>
+    <s:vendor>Stewart Hill </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/4236/7808/products/REFLECTION.jpg?v=1542919282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stewart Hill <br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00 - 120.00
+            <a href="https://stewarthill.co.uk/products/a-reflection-of-war">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Taken from Act One Scene Nine of the original theatre production of ‘The Two Worlds of Charlie F’ in January 2012; one of four paintings created to remember my time in the play. The characters in this scene reflect on their injuries caused by war in a matter of fact way. I have mirrored this image in a reflection below</p>
+<meta charset="utf-8">
+<p><span>Size options: A2, A3, A4 and A5</span><br><span>Fine art giclee prints</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458125733952</id>
+      <title>A1</title>
+      <s:price currency="GBP">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458125733952</id>
+      <title>A2</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458125733952</id>
+      <title>A3</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458125733952</id>
+      <title>A4</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://stewarthill.co.uk/products/1458125733952</id>
+      <title>A5</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
