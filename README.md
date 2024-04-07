@@ -6,8 +6,6 @@ TODO
 
 [] Fix first blog page
 [] Fix contact form
-[] Remove Shopify cart etc
-
 [] Remove credit cards etc from footer
 [] Remove twitter account
 [] Remove sort function on gallery page
