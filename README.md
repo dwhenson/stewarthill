@@ -3,7 +3,7 @@
 Test site for moving out of Shopify.
 
 TODO
-[] Fix images on individual picture pages
+
 [] Fix first blog page
 [] Fix contact form
 [] Remove Shopify cart etc
